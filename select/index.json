@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "スイセンカ",
+  "base_artist": "The Birthday",
+  "createdAt": "2025-12-01T23:48:33.382635Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スイセンカ",
+      "artist": "The Birthday",
+      "has_synced": false,
+      "path": "select/pl_01_スイセンカ_The_Birthday.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "スイセンカ",
+      "artist": "The Birthday",
+      "has_synced": false,
+      "path": "select/pl_02_スイセンカ_The_Birthday.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "水仙歌",
+      "artist": "The Birthday",
+      "has_synced": false,
+      "path": "select/pl_03_水仙歌_The_Birthday.txt"
+    }
+  ]
+}
